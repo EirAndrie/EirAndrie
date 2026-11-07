@@ -15,13 +15,11 @@
 
 ## 👨‍💻 About Me
 
-I am Drie, a full-stack engineer who specialize at backend development. I build on Ubuntu and Windows operating systems, using VSCode and Zed. I have been shipping since 2025 and I am learning backend infrastructure along the way.
+I'm Drie, a backend-focused Full-Stack Developer building web applications with Node.js, Express, React, and PostgreSQL. I work across Ubuntu and Windows using VS Code and modern AI-assisted development tools.
 
-I structure backends in layers: middleware, routes, controllers, services, repository, and database. Each layer has one job. For serverless projects, I use Next.js and query the database directly in components.
+I focus on structured backend architecture, RESTful API development, database design, and maintainable code. I value separation of concerns, clean architecture, and industry-standard practices.
 
-I write clean, consistent code. I apply separation of concerns and DRY principles.
-
-I deploy backends on Render and frontends on Vercel.
+I've been building and shipping projects since 2025, continuously learning about backend infrastructure, CI/CD, cloud deployment, and software engineering practices.
 
 ## 💻 Languages
 
